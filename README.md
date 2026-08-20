@@ -409,14 +409,3 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - 📱 Mobile app
 - 🔐 2FA authentication
 
----
-
-## ⭐ Star Us!
-
-If this project helps you, please give it a star! It motivates us to improve.
-
----
-
-**Made with ❤️ for Schools & Students**
-
-*Last Updated: August 2024*
